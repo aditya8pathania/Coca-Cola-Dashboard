@@ -31,6 +31,6 @@ This Excel dashboard provides a comprehensive analysis of Coca Cola's retail per
 
 ## Preview
 
-![Dashboard Preview](https://github.com/YourGitHubUsername/Coca-Cola-Retail-Dashboard/assets/preview-image)
+![Dashboard Preview](![12](https://github.com/aditya8pathania/Hotel-Booking-Cancellation-Dashboard/assets/158386292/f5f1890e-644f-4616-865d-7bbeeb94bb6c))
 
 ## Made By - Aditya Pathania
